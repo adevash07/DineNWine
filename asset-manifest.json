@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/DineNWine/static/css/main.c749d0f4.chunk.css",
-    "main.js": "/DineNWine/static/js/main.48be8df2.chunk.js",
-    "main.js.map": "/DineNWine/static/js/main.48be8df2.chunk.js.map",
+    "main.js": "/DineNWine/static/js/main.aa959384.chunk.js",
+    "main.js.map": "/DineNWine/static/js/main.aa959384.chunk.js.map",
     "runtime-main.js": "/DineNWine/static/js/runtime-main.c7204aa1.js",
     "runtime-main.js.map": "/DineNWine/static/js/runtime-main.c7204aa1.js.map",
     "static/css/2.9c474ea1.chunk.css": "/DineNWine/static/css/2.9c474ea1.chunk.css",
-    "static/js/2.49b91d5c.chunk.js": "/DineNWine/static/js/2.49b91d5c.chunk.js",
-    "static/js/2.49b91d5c.chunk.js.map": "/DineNWine/static/js/2.49b91d5c.chunk.js.map",
+    "static/js/2.9377c8bc.chunk.js": "/DineNWine/static/js/2.9377c8bc.chunk.js",
+    "static/js/2.9377c8bc.chunk.js.map": "/DineNWine/static/js/2.9377c8bc.chunk.js.map",
     "index.html": "/DineNWine/index.html",
     "static/css/2.9c474ea1.chunk.css.map": "/DineNWine/static/css/2.9c474ea1.chunk.css.map",
     "static/css/main.c749d0f4.chunk.css.map": "/DineNWine/static/css/main.c749d0f4.chunk.css.map",
-    "static/js/2.49b91d5c.chunk.js.LICENSE.txt": "/DineNWine/static/js/2.49b91d5c.chunk.js.LICENSE.txt",
+    "static/js/2.9377c8bc.chunk.js.LICENSE.txt": "/DineNWine/static/js/2.9377c8bc.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/DineNWine/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.c7204aa1.js",
     "static/css/2.9c474ea1.chunk.css",
-    "static/js/2.49b91d5c.chunk.js",
+    "static/js/2.9377c8bc.chunk.js",
     "static/css/main.c749d0f4.chunk.css",
-    "static/js/main.48be8df2.chunk.js"
+    "static/js/main.aa959384.chunk.js"
   ]
 }
