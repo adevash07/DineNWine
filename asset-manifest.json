@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Dine-n-Wine/static/css/main.c749d0f4.chunk.css",
-    "main.js": "/Dine-n-Wine/static/js/main.3561d685.chunk.js",
-    "main.js.map": "/Dine-n-Wine/static/js/main.3561d685.chunk.js.map",
-    "runtime-main.js": "/Dine-n-Wine/static/js/runtime-main.68a45453.js",
-    "runtime-main.js.map": "/Dine-n-Wine/static/js/runtime-main.68a45453.js.map",
-    "static/css/2.564e29bc.chunk.css": "/Dine-n-Wine/static/css/2.564e29bc.chunk.css",
-    "static/js/2.49b91d5c.chunk.js": "/Dine-n-Wine/static/js/2.49b91d5c.chunk.js",
-    "static/js/2.49b91d5c.chunk.js.map": "/Dine-n-Wine/static/js/2.49b91d5c.chunk.js.map",
-    "index.html": "/Dine-n-Wine/index.html",
-    "static/css/2.564e29bc.chunk.css.map": "/Dine-n-Wine/static/css/2.564e29bc.chunk.css.map",
-    "static/css/main.c749d0f4.chunk.css.map": "/Dine-n-Wine/static/css/main.c749d0f4.chunk.css.map",
-    "static/js/2.49b91d5c.chunk.js.LICENSE.txt": "/Dine-n-Wine/static/js/2.49b91d5c.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/Dine-n-Wine/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/DineNWine/static/css/main.c749d0f4.chunk.css",
+    "main.js": "/DineNWine/static/js/main.48be8df2.chunk.js",
+    "main.js.map": "/DineNWine/static/js/main.48be8df2.chunk.js.map",
+    "runtime-main.js": "/DineNWine/static/js/runtime-main.c7204aa1.js",
+    "runtime-main.js.map": "/DineNWine/static/js/runtime-main.c7204aa1.js.map",
+    "static/css/2.9c474ea1.chunk.css": "/DineNWine/static/css/2.9c474ea1.chunk.css",
+    "static/js/2.49b91d5c.chunk.js": "/DineNWine/static/js/2.49b91d5c.chunk.js",
+    "static/js/2.49b91d5c.chunk.js.map": "/DineNWine/static/js/2.49b91d5c.chunk.js.map",
+    "index.html": "/DineNWine/index.html",
+    "static/css/2.9c474ea1.chunk.css.map": "/DineNWine/static/css/2.9c474ea1.chunk.css.map",
+    "static/css/main.c749d0f4.chunk.css.map": "/DineNWine/static/css/main.c749d0f4.chunk.css.map",
+    "static/js/2.49b91d5c.chunk.js.LICENSE.txt": "/DineNWine/static/js/2.49b91d5c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/DineNWine/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.68a45453.js",
-    "static/css/2.564e29bc.chunk.css",
+    "static/js/runtime-main.c7204aa1.js",
+    "static/css/2.9c474ea1.chunk.css",
     "static/js/2.49b91d5c.chunk.js",
     "static/css/main.c749d0f4.chunk.css",
-    "static/js/main.3561d685.chunk.js"
+    "static/js/main.48be8df2.chunk.js"
   ]
 }
