@@ -76,13 +76,13 @@ class Main extends React.Component {
             <TransitionGroup>
               <CSSTransition key={this.props.location.key} classNames="page" timeout={300}>
                 <Switch location={this.props.location}>
-                  <Route path='/home' component={HomePage} />
+                  <Route path='/DineNWine' component={HomePage} />
                   <Route exact path="/menu" component={() => <Menu dishes={this.props.dishes.dishes} />} />
                   <Route path="/menu/:dishId" component={DishwithId} />
                   <Route exact path="/about" component={() => <About leaders={this.props.leader.leaders} />} />
                   <Route exact path="/contact" component={() => <Contact resetFeedbackForm={this.props.resetFeedbackForm}
                     postFeedback={this.props.postFeedback} />} />
-                  <Redirect to="/home" />
+                  <Redirect to="/DineNWine" />
                 </Switch>
               </CSSTransition>
             </TransitionGroup>

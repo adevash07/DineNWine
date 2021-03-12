@@ -239,7 +239,7 @@ class Contact extends React.Component {
 		</div>
 	<div className='row'>
 			<Breadcrumb>
-				<BreadcrumbItem><Link to="/home">Home</Link></BreadcrumbItem>
+				<BreadcrumbItem><Link to="/DineNWine">Home</Link></BreadcrumbItem>
 				<BreadcrumbItem active>Menu</BreadcrumbItem>
 			</Breadcrumb>
 		</div>
