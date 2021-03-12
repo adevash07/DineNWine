@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DineNWine/static/css/main.c749d0f4.chunk.css",
-    "main.js": "/DineNWine/static/js/main.aa959384.chunk.js",
-    "main.js.map": "/DineNWine/static/js/main.aa959384.chunk.js.map",
+    "main.js": "/DineNWine/static/js/main.a7b7cd54.chunk.js",
+    "main.js.map": "/DineNWine/static/js/main.a7b7cd54.chunk.js.map",
     "runtime-main.js": "/DineNWine/static/js/runtime-main.c7204aa1.js",
     "runtime-main.js.map": "/DineNWine/static/js/runtime-main.c7204aa1.js.map",
     "static/css/2.9c474ea1.chunk.css": "/DineNWine/static/css/2.9c474ea1.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.9c474ea1.chunk.css",
     "static/js/2.9377c8bc.chunk.js",
     "static/css/main.c749d0f4.chunk.css",
-    "static/js/main.aa959384.chunk.js"
+    "static/js/main.a7b7cd54.chunk.js"
   ]
 }
